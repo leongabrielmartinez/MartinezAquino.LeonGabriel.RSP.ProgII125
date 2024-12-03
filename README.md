@@ -1,1 +1,1 @@
-Uso generico
+Uso generico: "Descarga y ejecucion"
